@@ -1,0 +1,1 @@
+If you choose to download this project, then remember to run "npm install" in order for the program to download all necessary dependencies. :) 
